@@ -1,6 +1,3 @@
-1 2 3
-
-Safronii Veaceslav - 334CD
 # Switch Implementation
 
 ## Description of the Solution
